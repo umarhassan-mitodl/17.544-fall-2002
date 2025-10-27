@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ]
+  ],
+  "legacy_uid": "7535fc58-701e-be2b-edaf-b830bdc107fd",
+  "instructors": {
+    "content": [
+      "51bc62c4-185b-0a99-d78d-5476fbf63688"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "56dc1827-e993-b8f0-23c9-d2e43689a85d",
+    "website": "17-544-comparative-politics-and-china-fall-2002"
+  },
+  "course_title": "Comparative Politics and China",
+  "course_description": "This graduate seminar has two main goals: to explore the main theoretical and methodological approaches to the study of contemporary Chinese politics; and to relate those approches to broader trends in the field of comparative politics. What has the study of China contributed to the field of comparative politics, and vice versa? What are the most effective ways to integrate area studies, broader comparative approaches, and theory? Seminar presumes a basic understanding of the history and politics of contemporary China.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.544",
+  "course_image_thumbnail": {
+    "content": "6effbe6b-5514-fe6e-6c05-43d09103b0ee",
+    "website": "17-544-comparative-politics-and-china-fall-2002"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "4d9cba17-783c-4794-ae4d-9ce9ce96edc1",
+  "site_short_id": "17.544-fall-2002",
+  "site_url_path": "courses/17-544-comparative-politics-and-china-fall-2002",
+  "title": "Course Metadata"
+}
